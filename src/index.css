@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.kabo {
+  font-family: 'Kalam', cursive;
+  font-size: 2rem;
+  color: #4A5568; /* Gray-700 */
+  margin-left:20px ;
+  margin-bottom: 1.5rem; /* mb-6 */
+}
